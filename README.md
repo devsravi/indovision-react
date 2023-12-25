@@ -1,10 +1,9 @@
-# Getting Started with Create React App - Task For indovisio services
+# React App - Task For indovision services
 React App
-    [Create React App](https://github.com/facebook/create-react-app).
-
+    [Create React App](https://github.com/hello-ravikumar/indovision-react).
 Laravel App
-    [Create React App](https://github.com/facebook/create-react-app).
-    
+    [Create Laravel App](https://github.com/hello-ravikumar/indovision_task).
+
 ## About Task
 - Create GUI to upload documents like as pdf or docx on form submit call api to upload this document in a folder.
 - Extract uploaded document data & save in DB.
@@ -14,7 +13,7 @@ Laravel App
 
 ## Available Scripts
 Clone Task
-### `git clone https://github.com/hello-ravikumar/update-later`
+### `git clone https://github.com/hello-ravikumar/indovision-react.git`
 
 Goto project directory
 ### ` cd indovision_react`

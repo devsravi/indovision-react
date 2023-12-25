@@ -16,7 +16,7 @@ Clone Task
 ### `git clone https://github.com/hello-ravikumar/indovision-react.git`
 
 Goto project directory
-### ` cd indovision_react`
+### ` cd indovision-react`
 
 Install Project
 ### `npm install`

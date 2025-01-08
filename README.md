@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Thanks You!
 
 ## Links
-- GitHub https://github.com/hello-ravikumar
+- GitHub https://github.com/devsravi/
 - LinkedIn https://www.linkedin.com/in/ravi-kumar-0924a8188/
 
 
